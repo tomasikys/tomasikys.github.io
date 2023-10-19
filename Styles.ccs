@@ -1,19 +1,8 @@
-body {
-    background-color: pink;
-    font-family: Arial, Helvetica, sans-serif;
+.assign-det {
+    background-color: white; /* Set the background color for .assign-det */
+    padding: 10px; /* Add padding to .assign-det */
+    border: 1px solid grey; /* Add a border to .assign-det */
+    color: black; /* Set the text color for .assign-det */
+    font-family: Arial, Helvetica, sans-serif; /* Set the font for .assign-det */
+    text-align: left; /* Adjust text alignment as needed */
 }
-h1 {
-    color: grey;
-    text-align: center;
-}
-.assign {
-    margin: 10px;
-    padding: 10px;
-    background-color: black;
-    display: flex;
-}
-.assign img {
-    width: 200px;
-    padding: 10px;
-}
-
