@@ -10,6 +10,11 @@ h1 {
 .assign {
     margin: 10px;
     padding: 10px;
-background-color: black ;
+    background-color: black;
+    display: flex;
+}
+.assign img {
+    width: 200px;
+    padding: 10px;
 }
 
